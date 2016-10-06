@@ -1,9 +1,3 @@
-tutorial-nodejs
-===============
-
-Ejemplos para aprender lo básico sobre nodejs.
-Los ejemplos están tomdas de los tutoriales de nodejs de youtube de Ebin Paulosep.
-
 1. Instalar Node (nodejs.org)
 2. Directorio de trabajo para aplicaciones nodejs
 3. Instalar npm (si fuera necesario, ojo puede que en Windows haya que agregar una carpeta llamada npm en \Users\nombre-usuario\AppData\Roaming)
@@ -44,5 +38,3 @@ Los ejemplos están tomdas de los tutoriales de nodejs de youtube de Ebin Paulos
 14. Leer twits de Mongo y publicarlos en la web: ejemplo-twitter/tw3-leerDeMongo.js.js
 15. Leer twits en tiempo real y publicarlos en la web: ejemplo-twitter/tw4-leerDeMongoRT.js
 16. Igual que el ejemplo anterior pero sin necesidad de actualizar: ejemplo-twitter/tw5-leerDeMongoRT-sinAct.js
-
-
